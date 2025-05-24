@@ -16,5 +16,5 @@
   </a>
 </p>
 
-<h3>Linked In</h3>
-www.linkedin.com/in/kalini-jithma-03157228b
+
+ linkedIn: www.linkedin.com/in/kalini-jithma-03157228b

@@ -38,4 +38,4 @@ Web-based system with CRUD operations, role-based access, and more using PHP & M
 ### 📫 Contact
 
 - GitHub: [kalinijithma](https://github.com/kalinijithma)
-- LinkedIn: [Your LinkedIn](#) (add your real link)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/kalini-jithma-03157228b) 

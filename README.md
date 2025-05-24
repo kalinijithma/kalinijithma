@@ -17,4 +17,4 @@
 </p>
 
 
- linkedIn: www.linkedin.com/in/kalini-jithma-03157228b
+LinkedIn: www.linkedin.com/in/kalini-jithma-03157228b
